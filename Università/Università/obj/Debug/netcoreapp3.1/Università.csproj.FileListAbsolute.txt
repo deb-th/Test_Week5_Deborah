@@ -1,0 +1,13 @@
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 5 - C#\Test_Week_5_Deborah_Tucci\Università\Università\bin\Debug\netcoreapp3.1\Università.exe
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 5 - C#\Test_Week_5_Deborah_Tucci\Università\Università\bin\Debug\netcoreapp3.1\Università.deps.json
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 5 - C#\Test_Week_5_Deborah_Tucci\Università\Università\bin\Debug\netcoreapp3.1\Università.runtimeconfig.json
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 5 - C#\Test_Week_5_Deborah_Tucci\Università\Università\bin\Debug\netcoreapp3.1\Università.runtimeconfig.dev.json
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 5 - C#\Test_Week_5_Deborah_Tucci\Università\Università\bin\Debug\netcoreapp3.1\Università.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 5 - C#\Test_Week_5_Deborah_Tucci\Università\Università\bin\Debug\netcoreapp3.1\Università.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 5 - C#\Test_Week_5_Deborah_Tucci\Università\Università\obj\Debug\netcoreapp3.1\Università.csprojAssemblyReference.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 5 - C#\Test_Week_5_Deborah_Tucci\Università\Università\obj\Debug\netcoreapp3.1\Università.AssemblyInfoInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 5 - C#\Test_Week_5_Deborah_Tucci\Università\Università\obj\Debug\netcoreapp3.1\Università.AssemblyInfo.cs
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 5 - C#\Test_Week_5_Deborah_Tucci\Università\Università\obj\Debug\netcoreapp3.1\Università.csproj.CoreCompileInputs.cache
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 5 - C#\Test_Week_5_Deborah_Tucci\Università\Università\obj\Debug\netcoreapp3.1\Università.dll
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 5 - C#\Test_Week_5_Deborah_Tucci\Università\Università\obj\Debug\netcoreapp3.1\Università.pdb
+C:\Users\deborah.tucci\Desktop\Academy Avanade\Week 5 - C#\Test_Week_5_Deborah_Tucci\Università\Università\obj\Debug\netcoreapp3.1\Università.genruntimeconfig.cache
